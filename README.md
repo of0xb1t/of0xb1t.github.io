@@ -1,2 +1,2 @@
-# jekyll-theme-console demo
-This is a demo site for the jekyll-theme-console theme.
+# Blog Repo
+This is a repo for 0xb1t blog.

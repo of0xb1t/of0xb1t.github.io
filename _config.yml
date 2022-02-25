@@ -1,16 +1,16 @@
+
 title: 'test title'
 baseurl: "/"
 url: "https://of0xb1t.github.io"
 
 header_pages:
   - index.md
-#  - peter.md
-  - about.md
+#  - about.md
   - contact.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '"Success comes from curiosity, concentration, perseverance and self-criticism." A.E.'
 
 # Build settings
 markdown: kramdown
